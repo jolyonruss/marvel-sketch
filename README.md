@@ -19,4 +19,4 @@ Go to the Sketch Plugin Directory and replace the Marvel.sketchplugin file with 
 <p>If you normally use <b>Dropbox</b> to login into Marvel you first have to go to <a href= "https://marvelapp.com/manage/account/">https://marvelapp.com/manage/account/</a> and set a password in order to login without Dropbox on the Sketch plugin.</p>
 
 <h2>Known bugs:</h2>
-<p>If you artboard name starts with a blank space AND you have a second artboard with the same name but without a space in front of the name (" artboardname " and "artboard name"), the server might not upload your file. </p>
+<p>If your artboard name starts with a blank space AND you have a second artboard with the same name but without a space in front of the name (" artboardname " and "artboard name"), the server might not upload your file. </p>
